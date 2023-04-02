@@ -1,4 +1,5 @@
-# BQN Packages
+# Awesome BQN
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 We don't have a standard package manager quite yet so
 the following is a curated list of any BQN packages I'm
