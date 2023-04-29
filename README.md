@@ -6,7 +6,7 @@ a pull request!
 
 ## Libraries
 - Marshall Lochbaum's [bqn-libs](https://github.com/mlochbaum/bqn-libs), including:
-  - [big integers](https://github.com/mlochbaum/bqn-libs/blob/master/csv.bqn)
+  - [big integers](https://github.com/mlochbaum/bqn-libs/blob/master/bigint.bqn)
   - [big natural numbers](https://github.com/mlochbaum/bqn-libs/blob/master/bignat.bqn)
   - [CSV parser](https://github.com/mlochbaum/bqn-libs/blob/master/csv.bqn)
   - [datetime handler](https://github.com/mlochbaum/bqn-libs/blob/master/datetime.bqn)
