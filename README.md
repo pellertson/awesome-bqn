@@ -33,7 +33,7 @@ a pull request!
   requires rust
 - dlozeve's [bqn-graphics](https://github.com/dlozeve/bqn-graphics), tools for
   generating [PNM](https://netpbm.sourceforge.net/doc/pnm.html) images
-- ap29600's [PNM editing library](https://github.com/ap29600/bqn-image)
+- ap29600's [PNM image library](https://github.com/ap29600/bqn-image)
 - razetime's [bqn-unit](https://github.com/razetime/bqn-unit), BQN unit testing
 - icendoan's [bqn-bindings](https://github.com/icendoan/bqn-bindings),
   "miscellaneous bindings for useful C libraries from BQN"
