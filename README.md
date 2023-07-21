@@ -38,6 +38,8 @@ a pull request!
 - icendoan's [bqn-bindings](https://github.com/icendoan/bqn-bindings),
   "miscellaneous bindings for useful C libraries from BQN"
 - loovjo's [bless](https://github.com/loovjo/bless), a curses-like library
+- Brian Ed's [rayed-bqn](https://github.com/Brian-ED/rayed-bqn), the only BQN library as
+  of right now that can write windowed applications.
 
 ## Neat projects
 - Detegr's [bqed](https://github.com/Detegr/bqed), a text editor written with a modified
