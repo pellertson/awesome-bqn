@@ -56,6 +56,8 @@ or send a DM (rot13 username: `guvppobaxhf`) for any questions.
 - loovjo's [bless](https://github.com/loovjo/bless), a curses-like library
 - Brian Ed's [rayed-bqn](https://github.com/Brian-ED/rayed-bqn), the only BQN library as
   of right now that can write windowed applications.
+- Alex Dikelsky's [bqn-modular-arith](https://github.com/AlexDikelsky/bqn-modular-arith),
+  functions for working with modular arithmetic in BQN.
 
 ## Neat projects
 - Detegr's [bqed](https://github.com/Detegr/bqed), a text editor written with a modified
