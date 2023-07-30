@@ -4,6 +4,19 @@
 If you want your library in this list, feel free to issue
 a pull request!
 
+## IDE/Editors
+- [beacon](https://github.com/x86y/beacon), native BQN IDE/REPL
+- [bqn-vscode plugin](https://github.com/razetime/bqn-vscode), 
+  for those that need a web browser to edit code.
+- `vim(1)`, see [here](https://mlochbaum.github.io/BQN/editors/index.html#vim)
+- `neovim(1)`, see the [`nvim-bqn`](https://git.sr.ht/~detegr/nvim-bqn) plugin.
+- `emacs(1)`, see the [bqn major mode](https://github.com/museoa/bqn-mode).
+- [bqnlsp](https://git.sr.ht/~detegr/bqnlsp), an 
+  [LSP](https://microsoft.github.io/language-server-protocol/) for BQN. Requires rust.
+- [tree-sitter-bqn](https://github.com/shnarazk/tree-sitter-bqn), BQN support for 
+  [tree-sitter](https://tree-sitter.github.io/tree-sitter/).
+  
+
 ## Libraries
 - Marshall Lochbaum's [bqn-libs](https://github.com/mlochbaum/bqn-libs), including:
   - [big integers](https://github.com/mlochbaum/bqn-libs/blob/master/bigint.bqn)
