@@ -13,7 +13,7 @@ or send a DM (rot13 username: `guvppobaxhf`) for any questions.
   for those that need a web browser to edit code.
 - `vim(1)`, see [here](https://mlochbaum.github.io/BQN/editors/index.html#vim)
 - `neovim(1)`, see the [`nvim-bqn`](https://git.sr.ht/~detegr/nvim-bqn) plugin.
-- `emacs(1)`, see the [bqn major mode](https://github.com/museoa/bqn-mode).
+- `emacs(1)`, see the [BQN major mode](https://github.com/museoa/bqn-mode).
 - [bqnlsp](https://git.sr.ht/~detegr/bqnlsp), an 
   [LSP](https://microsoft.github.io/language-server-protocol/) for BQN. Requires rust.
 - [tree-sitter-bqn](https://github.com/shnarazk/tree-sitter-bqn), BQN support for 
