@@ -58,6 +58,7 @@ or send a DM (rot13 username: `guvppobaxhf`) for any questions.
   of right now that can write windowed applications.
 - Alex Dikelsky's [bqn-modular-arith](https://github.com/AlexDikelsky/bqn-modular-arith),
   functions for working with modular arithmetic in BQN.
+- dlozeve's [curl bindings](https://github.com/dlozeve/bqn-curl)
 
 ## Neat projects
 - Detegr's [bqed](https://github.com/Detegr/bqed), a text editor written with a modified
