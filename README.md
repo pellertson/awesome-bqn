@@ -3,8 +3,8 @@
 
 If you have any libraries or projects that you'd like to be put on here,
 feel free to issue a pull request!  I'm also active on the `#bqn` channel
-on [The APL Farm](https://discord.gg/2x6r6VgAmY) discord.  Ping me there
-or send a DM (rot13 username: `guvppobaxhf`) for any questions.
+on [The APL Farm](https://discord.gg/2x6r6VgAmY) discord.  My username on 
+there is `parker` if you want to ask me anything.
 
 
 ## IDE/Editors
