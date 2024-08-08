@@ -56,6 +56,9 @@ there is `parker` if you want to ask me anything.
 - loovjo's [bless](https://github.com/loovjo/bless), a curses-like library
 - Brian Ed's [rayed-bqn](https://github.com/Brian-ED/rayed-bqn), the only BQN library as
   of right now that can write windowed applications.
+- Brian's [bqn-socket](https://github.com/Brian-ED/bqn-socket/) library. Only tested on
+  Linux Mint at the moment.
+- Brian's [c-header-to-bqn-ffi](https://github.com/Brian-ED/c-header-to-bqn-ffi)
 - Alex Dikelsky's [bqn-modular-arith](https://github.com/AlexDikelsky/bqn-modular-arith),
   functions for working with modular arithmetic in BQN.
 - dlozeve's [curl bindings](https://github.com/dlozeve/bqn-curl)
