@@ -67,6 +67,8 @@ there is `parker` if you want to ask me anything.
 - dlozeve's
   [bqn-safetensors](https://github.com/dlozeve/bqn-safetensors), for
   reading and writing arrays to files in the safetensors format.
+- panadestein's [bqn-mpi](https://codeberg.org/panadestein/bqn-mpi). Bindings of a subset of MPI for BQN,
+  allowing SPMD parallel computing.
 
 ## Neat projects
 - Detegr's [bqed](https://github.com/Detegr/bqed), a text editor written with a modified
